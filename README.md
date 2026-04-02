@@ -11,7 +11,6 @@ Welcome to **Broxyfive**, an indie development studio focused on creating high-f
 ### 🛠️ Current Focus
 * **Mobile Simulation:** Developing lightweight yet physically accurate simulators for mobile platforms.
 * **Project Saturno V:** Our flagship space flight simulator (In Development using Godot Engine).
-* **AI Integration:** Researching intelligent systems for procedural environments and NPC behaviors (PIT Research).
 
 ### 💻 Tech Stack
 * **Engine:** Godot 4.x (GDScript)
